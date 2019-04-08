@@ -4,6 +4,7 @@ staticDir = ["static"]
 theme = "terminal"
 paginate = 5
 DefaultContentLanguage = "fr"
+disqusShortname = "altf4-1"
 
 [params]
   # dir name of your blog content (default is `content/posts`)
