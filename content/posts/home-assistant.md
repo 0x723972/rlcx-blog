@@ -1,6 +1,9 @@
 ---
 title: "Home Assistant"
 date: 2016-12-22T00:35:19+01:00
+author: "Ronan Lamour"
+tags: ["zozo", "zuzu"]
+showFullContent: false
 ---
 
 Après avoir tenté de la domotique à travers [Philips Hue](http://www2.meethue.com/fr-fr/), [Smartthings](https://www.smartthings.com/) ou encore du DIY par [Wio Link](http://wiki.seeed.cc/Wio_Link/), je me décide enfin à créer le coeur de ce qui pilotera notre maison en employant le très connu projet open-source : [Home Assistant](https://home-assistant.io/).<!--more-->

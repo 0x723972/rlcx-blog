@@ -1,4 +1,44 @@
-baseURL = "https://blog.rl.cx/"
-languageCode = "fr-FR"
-title = "rl.cx"
-theme = "nederburg"
+baseurl = "/"
+languageCode = "fr-fr"
+staticDir = ["static"]
+theme = "terminal"
+paginate = 5
+DefaultContentLanguage = "fr"
+
+[params]
+  # dir name of your blog content (default is `content/posts`)
+  contentTypeName = "posts"
+  # ["orange", "blue", "red", "green", "pink"]
+  themeColor = "green"
+  # if you set this to 0, only submenu trigger will be visible
+  showMenuItems = 2
+  # set theme to full screen width
+  fullWidthTheme = false
+  # center theme with default width
+  centerTheme = true
+  # set a custom favicon (default is a `themeColor` square)
+  # favicon = "favicon.ico"
+
+[languages]
+  [languages.fr]
+    title = "0x726f6e616e"
+    subtitle = "hard :: sys :: code :: gaming"
+    keywords = "hardware, sytème, code, gaming"
+    copyright = "© 2019 Ronan Lamour"
+    menuMore = "Voir plus"
+    readMore = "Lire la suite"
+    readOtherPosts = "Lire d'autres articles"
+
+    [languages.fr.params.logo]
+      logoText = "0x726f6e616e"
+      logoHomeLink = "/"
+
+    [languages.fr.menu]
+      [[languages.en.menu.main]]
+        identifier = "about"
+        name = "A propos"
+        url = "/about"
+      [[languages.fr.menu.main]]
+        identifier = "showcase"
+        name = "Projets"
+        url = "/showcase"
