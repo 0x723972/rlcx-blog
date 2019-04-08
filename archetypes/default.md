@@ -1,6 +1,8 @@
 ---
 title: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
-draft: true
+author: "Ronan Lamour"
+tags: ["", ""]
+showFullContent: false
 ---
 

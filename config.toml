@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "https://blog.altf4.dev/"
 languageCode = "fr-fr"
 staticDir = ["static"]
 theme = "terminal"
@@ -34,11 +34,7 @@ DefaultContentLanguage = "fr"
       logoHomeLink = "/"
 
     [languages.fr.menu]
-      [[languages.en.menu.main]]
+      [[languages.fr.menu.main]]
         identifier = "about"
         name = "A propos"
         url = "/about"
-      [[languages.fr.menu.main]]
-        identifier = "showcase"
-        name = "Projets"
-        url = "/showcase"
