@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/r9r
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://blog.altf4.dev
+  * I am r9r (https://keybase.io/r9r) on keybase.
+  * I have a public key ASAWGpilo9lNzyIqpF_UYOn6oNH1sNMU5MOiTSir5SuXTgo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120161a98a5a3d94dcf222aa45fd460e9faa0d1f5b0d314e4c3a24d28abe52b974e0a",
+      "host": "keybase.io",
+      "kid": "0120161a98a5a3d94dcf222aa45fd460e9faa0d1f5b0d314e4c3a24d28abe52b974e0a",
+      "uid": "aaf8794ab5dd3187ee0e8c20b6ca9919",
+      "username": "r9r"
+    },
+    "merkle_root": {
+      "ctime": 1555408211,
+      "hash": "869dc09944d173b9e88ffa811751b1658f6449c18e100ba10c998516ac4afc26638d1ceb3788e66a961a90e145b889f380a3de935f9e3c00f4e3c6908d8255fe",
+      "hash_meta": "220273090d222c79731594dc1330beccf824ac60208f4d78b4083f4e5b871885",
+      "seqno": 5180476
+    },
+    "service": {
+      "entropy": "uQvvIbzSfCMD1LdmF6iOcC0k",
+      "hostname": "blog.altf4.dev",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "3.2.2"
+  },
+  "ctime": 1555408226,
+  "expire_in": 504576000,
+  "prev": "2be7f233a38c850ae062526787ed53444015abace3f1f589356d91f32600f9cf",
+  "seqno": 22,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgFhqYpaPZTc8iKqRf1GDp+qDR9bDTFOTDok0oq+Url04Kp3BheWxvYWTESpcCFsQgK+fyM6OMhQrgYlJnh+1TREAVq6zj8fWJNW2R8yYA+c/EIBeZDNPvJkK8eVJKyrC2B8HH+0f3kdCGiMltGYiSZWTYAgHCo3NpZ8RAq/bH27pnk1tYGoV7tmt6aiep4vPJTzwtrwNWNX9Hhpyvbjbzgx7vMBve/2KSakXyWz6hPV7iDwj132wurxirBKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIDQIZyqt6cGYWyOBGluWnQDRHs75RnPFclTjpgDj/nLRo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/r9r
+
+==================================================================
